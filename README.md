@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Matthew 💻 </h1>
 
 <p align='center'>
-  I live Shanghai 
+  I live Denver, Colorado 
 </p>
 
 <p align='center'>
